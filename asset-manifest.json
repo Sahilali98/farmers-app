@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/farmers-app/static/css/main.e6c13ad2.css",
+    "main.js": "/farmers-app/static/js/main.165a03b9.js",
+    "static/js/453.29b97ee2.chunk.js": "/farmers-app/static/js/453.29b97ee2.chunk.js",
+    "index.html": "/farmers-app/index.html",
+    "main.e6c13ad2.css.map": "/farmers-app/static/css/main.e6c13ad2.css.map",
+    "main.165a03b9.js.map": "/farmers-app/static/js/main.165a03b9.js.map",
+    "453.29b97ee2.chunk.js.map": "/farmers-app/static/js/453.29b97ee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.165a03b9.js"
+  ]
+}
